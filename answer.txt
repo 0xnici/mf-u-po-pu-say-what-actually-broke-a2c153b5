@@ -1,0 +1,1 @@
+Disk full: we'd write a longer error, but there's no room — same reason your save failed.
